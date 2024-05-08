@@ -96,8 +96,6 @@ For now, you will work with five lists:
 
 Here is an example Trello Board:
 
-![Trello Board](./assets/Trello-board.png)
-
 [Getting Started with Trello Docs](https://trello.com/guide)
 
 [How to get started with Trello Video](https://www.youtube.com/watch?v=xky48zyL9iA)

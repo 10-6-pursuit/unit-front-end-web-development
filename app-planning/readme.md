@@ -168,7 +168,6 @@ Success! Victory! This list shows tasks that are completed by your team. It's a 
 
 Not every task you'll have to work on is a user story. You can (and should) include two other common tasks in your Trello board. You can also use `labels` to denote that they are not user stories:
 
-![Trello Labels](./assets/Trello-labels.png)
 
 ### User Stories Details
 
@@ -291,6 +290,7 @@ When building your wireframes, consider making views that follow a similar patte
 /about - <AboutUs> (information about the team)
 ```
 
-## Further Your Understanding
+## Further Your Understanding 
 
 Watch an expert draw and refine some wireframes to better understand the process [here](https://youtu.be/qpH7-KFWZRI).
+[Project workflow](https://github.com/10-6-pursuit/unit-front-end-web-development/tree/main/project-workflow)

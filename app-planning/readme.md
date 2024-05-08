@@ -280,6 +280,19 @@ One thing to also consider when making your designs is if you would like to foll
 
 When building your wireframes, consider making views that follow a similar pattern and reuse components from one page to the next.
 
+## Frontend Routes, React Components & Views
+
+> Note: List out all the front-end routes you foresee you'll need for your application
+
+**Example:**
+```
+/notes - <NotesList> (index/home page)
+/notes/:id - <Note> (show)
+/notes/new - <NewNoteForm> (new)
+/notes/:id/edit - <EditNoteForm> (edit)
+/about - <AboutUs> (information about the team)
+```
+
 ## Further Your Understanding
 
 Watch an expert draw and refine some wireframes to better understand the process [here](https://youtu.be/qpH7-KFWZRI).
